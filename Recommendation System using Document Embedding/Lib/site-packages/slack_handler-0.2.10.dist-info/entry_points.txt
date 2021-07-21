@@ -1,0 +1,3 @@
+[console_scripts]
+slack_handler = slack_handler.__main__:main
+
